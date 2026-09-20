@@ -1,0 +1,11 @@
+# Robots.txt for https://aadhithyans.dev/
+# Optimized for Search Crawlers and AI Search Engines
+
+User-agent: *
+Allow: /
+Allow: /public/
+Allow: /projects/
+Allow: /aadhithyan-cutout.png
+
+# Sitemap Location
+Sitemap: https://aadhithyans.dev/sitemap.xml
